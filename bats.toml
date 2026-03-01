@@ -1,0 +1,7 @@
+[package]
+name = "bridge-js"
+kind = "lib"
+unsafe = false
+
+[dependencies]
+"builder" = ""
